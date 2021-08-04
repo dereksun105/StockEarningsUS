@@ -11,4 +11,6 @@ The calculation of the intrinsic value formula of the stock is done by dividing 
 in the market. The value of stock derived in this way is then compared with the market price
 of the stock to check if the stock is trading above / at par / below its intrinsic value.
 
+![GitHub Logo](/images/Intrinsic-Value-Formula.jpg.jfif)
+
 Intrinsic Value Formula Stock  = Intrinsic Value Business / No. of outstanding shares
