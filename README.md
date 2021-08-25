@@ -24,7 +24,7 @@ Intrinsic Value Formula Stock  = Intrinsic Value Business / No. of outstanding s
 4. Observe recent long/short on this stock by min forces
 5. Basic Technical analysis (EMA, MACD, RSI, Volume)
 6. Basic Fundemental anlaysis (Revenue, net profit, cash flow, debt)
-7. P
+7. Percieve its insintric value
 
 ## Sources
 1. Investing.com
