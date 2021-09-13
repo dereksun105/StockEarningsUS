@@ -50,6 +50,10 @@ of the stock to check if the stock is trading above / at par / below its intrins
 
 Intrinsic Value Formula Stock  = Intrinsic Value Business / No. of outstanding shares
 
+## Extra subjecttive
+- Make this project accessible on a wix website
+- TBU
+
 ## Sources
 1. Investing.com
 2. Money.CNN.com
