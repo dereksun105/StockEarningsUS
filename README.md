@@ -27,10 +27,12 @@ There are 4 scenarios
 1. See the past earnings of this company and how the price reacts the next day
 2. Identify pressure and support to find oppotunity of gains
 3. Look through news and realize public opinion
-4. Observe recent long/short on this stock by min forces
+4. Observe recent long/short on this stock by mainn forces
 5. Basic Technical analysis (EMA, MACD, RSI, Volume)
 6. Basic Fundemental anlaysis (Revenue, net profit, cash flow, debt)
 7. Percieve its insintric value
+8. Discover its competitors and see how they perform
+9. Determine the whether the stock has a good future
 
 ## When
 After analyzing these stocks, look at their current price level
